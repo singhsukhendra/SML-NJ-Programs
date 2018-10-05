@@ -5,8 +5,8 @@
 4. Program for bubble sort in ML
 5. Program for merge sort in ML
 6. Program for Quick sort in ML
-7 Program for Tower of Hanoi
-8 Program to calculate factorial of a number
-9 Program for selection sort
+7. Program for Tower of Hanoi
+8. Program to calculate factorial of a number
+9. Program for selection sort
 10. Program for primarity test
-11 Program for fibonacci series
+11. Program for fibonacci series

@@ -7,3 +7,6 @@
 6. Program for Quick sort in ML
 7 Program for Tower of Hanoi
 8 Program to calculate factorial of a number
+9 Program for selection sort
+10. Program for primarity test
+11 Program for fibonacci series
